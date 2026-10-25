@@ -3,7 +3,7 @@ An ambient edison bulb with hue controls for Windows 11 to compliment Lampdroid 
 
   
 
-<a href="https://github.com/airstairs/lAmpdroid">Checkout its mobile compliment for Android</a/>  
+<a href="https://github.com/airstairs/lAmpdroid">Checkout its mobile compliment for Android</a>  
 
 
 
